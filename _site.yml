@@ -1,4 +1,4 @@
-name: "Yay internet!"
+name: "Liqian Zhang"
 output_dir: "."
 navbar:
   title: "Home"
@@ -6,8 +6,11 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<liz4007@med.cornell.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: https://github.com/liqian928/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/liqian928
+
 output:
   html_document
