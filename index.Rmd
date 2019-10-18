@@ -9,4 +9,4 @@ include_graphics("images/sakura.jpg")
 
 I am a student in the [Biostatsitics and Data Science track](https://hpr.weill.cornell.edu/graduate-education-clinical-training/masters-track/biostatistics-data-science) of the [Healthcare Policy and Research Department](http://hpr.weill.cornell.edu) at [Weill Cornell Medicine](https://weill.cornell.edu).
 
-My full CV is available [here](files/resume.pdf).
+My CV is available [here](files/resume.pdf).
